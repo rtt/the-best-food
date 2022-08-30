@@ -25,7 +25,7 @@
 - Date: 28/9/2022
 - Recipe: https://hebbarskitchen.com/chole-bhature-recipe-chana-bhatura/
 
-# Vegetable Roti wraps
+## Vegetable Roti wraps
 
 - Nominated by: Ankush
 - Date: 5/10/2022
