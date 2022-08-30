@@ -4,7 +4,7 @@
 
 - Nominated by: Varsha
 - Date: 7/9/2022
-- Recipe: [todo]
+- Recipe: https://www.halfbakedharvest.com/butter-chicken/
 - Extras: crunchy onion side
 
 ## Masala Dosa
