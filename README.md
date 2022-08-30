@@ -18,3 +18,9 @@
 - Nominated by: Nishkala
 - Date: 21/9/2022
 - Recipe: https://hebbarskitchen.com/easy-mumbai-style-pav-bhaji-recipe/
+
+## Chole Bhatura
+
+- Nominated by: Ankit
+- Date: 28/9/2022
+- Recipe: https://hebbarskitchen.com/chole-bhature-recipe-chana-bhatura/
